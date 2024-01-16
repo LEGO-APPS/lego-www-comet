@@ -180,6 +180,13 @@
   </url>
   
   <url>
+    <loc>https://lego-apps.github.io/lego-www-comet/tags/sh601609/</loc>
+    <lastmod>2024-01-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://lego-apps.github.io/lego-www-comet/tags/sz000931/</loc>
     <lastmod>2024-01-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -201,14 +208,7 @@
   </url>
   
   <url>
-    <loc>https://lego-apps.github.io/lego-www-comet/tags/sh601609/</loc>
-    <lastmod>2024-01-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://lego-apps.github.io/lego-www-comet/tags/sh600362/</loc>
+    <loc>https://lego-apps.github.io/lego-www-comet/tags/sz002023/</loc>
     <lastmod>2024-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -222,14 +222,21 @@
   </url>
   
   <url>
-    <loc>https://lego-apps.github.io/lego-www-comet/tags/sh600594/</loc>
+    <loc>https://lego-apps.github.io/lego-www-comet/tags/sh600026/</loc>
     <lastmod>2024-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://lego-apps.github.io/lego-www-comet/tags/sz002023/</loc>
+    <loc>https://lego-apps.github.io/lego-www-comet/tags/sh600362/</loc>
+    <lastmod>2024-01-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://lego-apps.github.io/lego-www-comet/tags/sh600594/</loc>
     <lastmod>2024-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -244,13 +251,6 @@
   
   <url>
     <loc>https://lego-apps.github.io/lego-www-comet/tags/sh600031/</loc>
-    <lastmod>2024-01-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://lego-apps.github.io/lego-www-comet/tags/sh600026/</loc>
     <lastmod>2024-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -272,41 +272,6 @@
   
   <url>
     <loc>https://lego-apps.github.io/lego-www-comet/tags/sh601958/</loc>
-    <lastmod>2024-01-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://lego-apps.github.io/lego-www-comet/tags/sh601968/</loc>
-    <lastmod>2024-01-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://lego-apps.github.io/lego-www-comet/tags/sh600678/</loc>
-    <lastmod>2024-01-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://lego-apps.github.io/lego-www-comet/tags/sz000503/</loc>
-    <lastmod>2024-01-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://lego-apps.github.io/lego-www-comet/tags/sh603317/</loc>
-    <lastmod>2024-01-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://lego-apps.github.io/lego-www-comet/tags/sh600727/</loc>
     <lastmod>2024-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -376,6 +341,41 @@
   </url>
   
   <url>
+    <loc>https://lego-apps.github.io/lego-www-comet/tags/sh601968/</loc>
+    <lastmod>2024-01-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://lego-apps.github.io/lego-www-comet/tags/sh600678/</loc>
+    <lastmod>2024-01-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://lego-apps.github.io/lego-www-comet/tags/sz000503/</loc>
+    <lastmod>2024-01-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://lego-apps.github.io/lego-www-comet/tags/sh603317/</loc>
+    <lastmod>2024-01-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://lego-apps.github.io/lego-www-comet/tags/sh600727/</loc>
+    <lastmod>2024-01-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://lego-apps.github.io/lego-www-comet/tags/sz002119/</loc>
     <lastmod>2024-01-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -411,13 +411,6 @@
   </url>
   
   <url>
-    <loc>https://lego-apps.github.io/lego-www-comet/tags/sh603787/</loc>
-    <lastmod>2024-01-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://lego-apps.github.io/lego-www-comet/tags/sh600130/</loc>
     <lastmod>2024-01-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -446,13 +439,6 @@
   </url>
   
   <url>
-    <loc>https://lego-apps.github.io/lego-www-comet/tags/sh603616/</loc>
-    <lastmod>2024-01-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://lego-apps.github.io/lego-www-comet/tags/sz000584/</loc>
     <lastmod>2024-01-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -474,6 +460,27 @@
   </url>
   
   <url>
+    <loc>https://lego-apps.github.io/lego-www-comet/tags/sh600310/</loc>
+    <lastmod>2024-01-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://lego-apps.github.io/lego-www-comet/tags/sh603787/</loc>
+    <lastmod>2024-01-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://lego-apps.github.io/lego-www-comet/tags/sh603616/</loc>
+    <lastmod>2024-01-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://lego-apps.github.io/lego-www-comet/tags/sz002181/</loc>
     <lastmod>2024-01-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -489,13 +496,6 @@
   
   <url>
     <loc>https://lego-apps.github.io/lego-www-comet/tags/sz002174/</loc>
-    <lastmod>2024-01-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://lego-apps.github.io/lego-www-comet/tags/sh600310/</loc>
     <lastmod>2024-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
